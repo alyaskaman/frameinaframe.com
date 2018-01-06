@@ -2,16 +2,15 @@
 title: Frame in a Frame
 subtitle: by Aliaskar
 email: aliaskar.batyrbek@gmail.com
-description: I’m a full-time filmmaker.
+description: I’m a full-time filmmaker. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Ali B.
-street_address: 1234 Somewhere Road
 city: Astana
 state: AQM
-zip_code: 55555
+zip_code: "010000"
 country: Kazakhstan
-phone: (701) 579-76-79
+phone: +7 (701) 579-76-79
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -21,6 +20,8 @@ tiles-count: 6
 github_url:
 instagram_url: https://instagram.com/aliaskar
 twitter_url: https://twitter.com/aliaskar
+soundcloud_url: https://soundcloud.com/alyaskaman
+tumblr_url: https://alyaska-design.tumblr.com
 
 # build settings
 markdown: kramdown
